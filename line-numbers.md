@@ -4,9 +4,9 @@
 #### 4
 #### 5 Danir is cool
 #### 6
-#### 7
+#### 7 Leo is cool
 #### 8
-#### 9 Github is awesome
+#### 9 Github is really awesome
 #### 10
 #### 11
 #### 12
